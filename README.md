@@ -10,6 +10,8 @@ It's tested on a raspberry pi 3 running raspbian buster.
 3. `cd Pi-Speedtest`
 4. `chmod 700 bandwidth.sh`
 5. `./bandwidth.sh`
+
+
 Or if you're feeling lazy...
 `wget https://raw.githubusercontent.com/ghostwalkr/Pi-Speedtest/master/bandwidth.sh && chmod 700 bandwidth.sh`
 
